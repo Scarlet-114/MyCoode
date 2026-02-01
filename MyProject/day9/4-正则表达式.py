@@ -165,7 +165,7 @@ br></p>
 <p>5、熟悉 Javascript/CSS/HTML5，JQuery、React、Vue.js</p>
 <p>&nbsp;<br></p>
 <p>加分项：</p>
-<p>大数据，数理统计，机器学习，sklearn，高性能，大并发。</p>
+<p>大数据，数理统计，day13-特征工程，sklearn，高性能，大并发。</p>
 </div>
     '''
     ret =  re.sub(r"<[^>]*>|&nbsp;|\n|\s", "", long_text)
